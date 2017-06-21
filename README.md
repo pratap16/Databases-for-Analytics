@@ -4,7 +4,7 @@ ettingStarted.CreatingConnecting.MySQL.html)
 
 2) Learning of Normalization
 
-3)Types of SQL Commands:
+3) Types of SQL Commands:
     DDL (Data Definition Language)
     DML (Data Manipulation Language)
     DQL (Data Query Language)
