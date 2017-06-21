@@ -1,6 +1,6 @@
 # Databases-for-Analytics
-1) MySQL DB Instance is created using Amazon Web Services' RDS (http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_G
-ettingStarted.CreatingConnecting.MySQL.html)
+1) MySQL DB Instance is created using Amazon Web Services' RDS 
+(http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.MySQL.html)
 
 2) Learning of Normalization
 
